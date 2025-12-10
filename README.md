@@ -3,7 +3,7 @@
 > [!CAUTION]
 > For educational purposes only. I'm not responsible for any damage. If You need assistance, feel free to open an issue. Other than that, You're on Your own.
 
-# 1Z0 920 842D (Octavia 2 Pre Facelift)
+# 1Z0 920 842D (Octavia 2 Pre Facelift 2004-09/2008)
 > [!WARNING]
 > Most of these values (if not all of them) won't work on older clusters (841)
 
